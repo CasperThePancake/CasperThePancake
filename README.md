@@ -4,6 +4,8 @@ I'm _Casper_, a physics student at KU Leuven in Belgium.
 
 My main topics of interest include computational physics, game engines, and quantum mechanics.
 
+In my free time, you'll find me running, cleaning up my neighborhood, reading, or playing games.
+
 ## Skills
 
 | Category | Tech Stack & Skills |
